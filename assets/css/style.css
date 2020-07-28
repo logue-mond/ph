@@ -50,7 +50,12 @@ p {
 }
 
 #wrapper{
-text-align:center;}
+text-align:center;
+display:flex;
+height:100vh;}
+
+.container{
+height:100px;}
 
 /**********スマホ**********/
 @media screen and (max-width: 549px) {
