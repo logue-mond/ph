@@ -23,7 +23,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: inherit;
-    font-weight: 600;
+    font-weight: 900;
     line-height: 1.5;
     color: inherit;
 }
@@ -48,7 +48,7 @@ p {
     margin: 20px 0;
 }
 
-.wrapper{
+#wrapper{
 text-align:center;}
 
 /**********スマホ**********/
