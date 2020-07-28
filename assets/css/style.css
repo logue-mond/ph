@@ -41,8 +41,9 @@ text-decoration:none;}
 a.btn{background-color:#688ff0;
 border-radius:5px;
 color:#fff;
-padding:10px 15px;
-min-width:300px;}
+min-width: 200px;
+    display: inline-block;
+    text-align: center;}
 
 p {
     margin: 20px 0;
