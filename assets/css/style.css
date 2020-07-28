@@ -50,11 +50,13 @@ p {
 }
 
 #wrapper{
-text-align:center;
-display:flex;
-height:100vh;}
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    width: 100vw;}
 
 .container{
+    display:block;
 height:100px;}
 
 /**********スマホ**********/
