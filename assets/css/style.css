@@ -41,7 +41,15 @@ text-decoration:none;}
 a.btn{background-color:#688ff0;
 border-radius:5px;
 color:#fff;
-padding:10px 15px;}
+padding:10px 15px;
+min-width:300px;}
+
+p {
+    margin: 20px 0;
+}
+
+.wrapper{
+text-align:center;}
 
 /**********スマホ**********/
 @media screen and (max-width: 549px) {
