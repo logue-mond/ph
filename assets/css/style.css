@@ -62,8 +62,6 @@ p {
     align-items: center;}
 
 .container{
-    height: 100px;
-    width: 100vw;
     display: block;
     text-align: center;}
 
