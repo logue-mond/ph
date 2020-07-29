@@ -125,11 +125,3 @@ $(function() {
 	scrollMenu();
 });
 
-
-$(function() {
-  Pace.on('done', function(){
-          $('#wrapper').fadeIn();
-          $('footer').fadeIn();
-          $('.pace-progress').fadeOut();
-      });
-  });
