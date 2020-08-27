@@ -40,7 +40,7 @@ a{
     color:#688ff0;
     text-decoration:none;}
 
-a.btn{
+.btn{
     background-color:#688ff0;
     border-radius:5px;
     color:#fff;
@@ -68,6 +68,18 @@ p.sub{
 .container{
     display: block;
     text-align: center;}
+
+
+label {
+    display: flex;
+    line-height: 1;
+    margin: 10px 0;
+}
+
+input, textarea {
+    padding: 5px;
+}
+
 
 /**********スマホ**********/
 @media screen and (max-width: 549px) {
