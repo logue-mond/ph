@@ -99,9 +99,11 @@ p.check {
     width: 90%;
     margin: 0 auto;
   }
-    header h1 {
+    
+  header h1 {
     font-size: calc(26em/16);
 }
+    
 }
 
 /**********タブレット**********/
