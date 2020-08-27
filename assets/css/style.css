@@ -80,6 +80,10 @@ input, textarea {
     padding: 5px;
 }
 
+p.check {
+    text-align: left;
+}
+
 
 /**********スマホ**********/
 @media screen and (max-width: 549px) {
