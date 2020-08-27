@@ -70,6 +70,7 @@ p.sub{
     text-align: center;}
 
 
+/**********フォーム**********/
 label {
     display: flex;
     line-height: 1;
@@ -82,6 +83,10 @@ input, textarea {
 
 p.check {
     text-align: left;
+}
+
+[type="checkbox"] {
+    margin-right: 5px;
 }
 
 
