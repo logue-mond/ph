@@ -79,6 +79,7 @@ label {
 
 input, textarea {
     padding: 5px;
+    max-width: 100%;
 }
 
 p.check {
