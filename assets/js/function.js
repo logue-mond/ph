@@ -1,4 +1,8 @@
-
+if(location.href == "https://logue-mond.tumblr.com"){
+    document.location = "https://logue.mond.jp/ph/";
+}else if(location.href == "https://logue-mond.github.io/ph/"){
+    document.location = "https://logue.mond.jp/ph/";
+}
 
 //Viewoirt切り替え
 $(function() {
